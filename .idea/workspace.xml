@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76dd6374-20dd-412c-a754-f05bb0ed1d11" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrow_function_lexical_biding.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/async_await.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casting_coercion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_class.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/closures.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creacion_strings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/do_while.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estructura_control.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filter_reduce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/find_findIndex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for_await.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for_in.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funcion_constructora.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funciones.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funciones_metodos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funciones_puras_impuras.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/herencias_prototipos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hola_mundo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_condicional.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lexical_binding.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map_foreach.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operador_condicional.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operador_logicos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operadores_aritmeticos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protocolos/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protocolos/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/push_pop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/red_social.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/red_social2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spread_operator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/this.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tipos_datos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2t65h4NbGkmdiwkTWz63htggJla" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feature/2025-create-basic-fundamental-theory",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/lady/fundamentos-javascript"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/protocolos" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76dd6374-20dd-412c-a754-f05bb0ed1d11" name="Changes" comment="" />
+      <created>1739659799695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739659799695</updated>
+    </task>
+    <servers />
+  </component>
+</project>
